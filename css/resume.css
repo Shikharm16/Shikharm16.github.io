@@ -84,8 +84,9 @@ p.lead {
 }
 .imaa
 {
-  height: 250px;
-  width: 350px;
+  height: 210px;
+  width: 300px;
+  padding: 10px 10px;
 }
 .imaa2
 {
